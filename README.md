@@ -1,3 +1,10 @@
+# Instalar os pacotes
+- fastapi
+- requests
+- json
+- pymongo
+- dotenv
+
 # Para rodar
 - uvicorn main:app --port 8000
 - uvicorn main:app --port 8001
